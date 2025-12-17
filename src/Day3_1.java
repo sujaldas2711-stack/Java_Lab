@@ -8,7 +8,7 @@ class TwoD{
         length = l;
         breadth = b;
     }
-    TwoD(){}
+
     int costSheet(){
         return length*breadth*40;
     }
