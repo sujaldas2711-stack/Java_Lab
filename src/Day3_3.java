@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 class Account{
     double acc_no;
     double balance;
