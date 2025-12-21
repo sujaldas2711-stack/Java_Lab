@@ -1,5 +1,5 @@
+package Day3;
 import java.util.Scanner;
-
 class TwoD{
     int length;
     int breadth;
